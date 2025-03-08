@@ -70,7 +70,7 @@ $ up.sh
 $ meta.sh
 $ meta.sh
 $ pkg install python -y
-$ git clone https://github.com/cracker911181/Cracker-Tool
+$ git clone https://github.com/fahad-ahamed/best-cracker-tool.git
 
 [+] For Set This Tool, Put The Following Commands in Your Termux:
 
